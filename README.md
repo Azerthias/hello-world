@@ -1,2 +1,2 @@
 # hello-world
-this is a description
+This is my first gitHub program
